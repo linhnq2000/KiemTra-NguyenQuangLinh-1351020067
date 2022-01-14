@@ -17,3 +17,10 @@ dem3=len(ho)
 number=dem1+dem2+dem3
 
 print(number ,"là", ho_ten(number))
+
+# Kết Quả
+# Hãy nhập họ của bạn: Nguyen
+# Hãy nhập tên đệm của bạn: Quang
+# Hãy nhập tên của bạn: Linh
+# Tên đầy đủ của bạn là:  Nguyen Quang Linh
+# 15 là False
