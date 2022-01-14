@@ -9,3 +9,9 @@ for i in range(1, n + 1):
     d[i] = i * i
  
 print (d)
+
+# Kết Quả
+# Hãy nhập tên của bạn: Linh
+# Tên của bạn là:  Linh
+# Độ dài tên của bạn là:  4
+# {1: 1, 2: 4, 3: 9, 4: 16}
