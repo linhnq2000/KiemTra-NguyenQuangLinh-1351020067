@@ -20,3 +20,9 @@ def totalDigitsOfNumber(n):
     return total;
 
 print("Tổng các chữ số của", n , "là", totalDigitsOfNumber(n));
+
+#Kết Quả
+# Hãy nhập tên đệm của bạn: Quang
+# Tên đệm của bạn là: Quang
+# Số nguyên n theo tên đệm của bạn là: 5
+# Tổng các chữ số của 5 là 5
